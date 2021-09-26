@@ -1,1 +1,5 @@
 *.pdf
+*.csv
+*.txt
+cr_sm_by_brand_each/
+.ipyny_checkpoints/
